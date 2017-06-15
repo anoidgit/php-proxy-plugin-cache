@@ -1,7 +1,7 @@
 {
-	"name": "athlon1600/php-proxy-plugin-cache",
+	"name": "anoidgit/php-proxy-plugin-cache",
 	"description": "Cache Plugin for PHP-Proxy",
-	"homepage": "https://www.php-proxy.com/",
+	"homepage": "https://github.com/anoidgit/php-proxy-plugin-cache",
 	"type": "library",
 	"license": "MIT",
 	"autoload": {
